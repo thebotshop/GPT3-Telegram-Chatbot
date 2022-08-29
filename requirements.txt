@@ -2,3 +2,4 @@ python-telegram-bot
 VaderSentiment
 openai
 regex
+cachetools==4.2.2
